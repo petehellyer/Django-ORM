@@ -1,13 +1,16 @@
 Django ORM Standalone
 =====================
 
-This is a python project template that allows you to use the database components of Django without having to use the rest of Django (i.e. running a web server). :tada: A typical use case for using this template would be if you are writing a python script and you would like the database functionality provided by Django, but have no need for the request/response functionalty of a client/server web application that Django also provides. 
+![Django](https://img.shields.io/badge/Django_ORM-Standalone-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
+
+Use the database components of Django without having to use the rest of Django (i.e. running a web server)! :tada: A typical use case for using this template would be if you are writing a python script and you would like the database functionality provided by Django, but have no need for the request/response functionalty of a client/server web application that Django also provides. 
 
 With this project template you can write regular python scripts and use Django's excellent ORM functionality with the database backend of your choice. This makes it convienient for Djangonauts to write database driven python applications with the familiar and well polished Django ORM. Enjoy.
 
 :gear: Requirements
 -------------------
-- Last tested successfully with Python 3.7.3 and Django 3.2.4
+- Last tested successfully with Python 3.10.4 and Django 5.0.6
 - Create venv and pip install django to import the required modules.
 
 :open_file_folder: File Structure
@@ -89,7 +92,7 @@ Link: [How to Use Django Models](https://docs.djangoproject.com/en/3.1/topics/db
 License
 -------
 
-The MIT License (MIT) Copyright (c) 2021 Dan Caron
+The MIT License (MIT) Copyright (c) 2024 Dan Caron
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
